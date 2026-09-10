@@ -1,7 +1,7 @@
 {
-  "version": "2.5.0.0",
+  "version": "2.5.1.0",
   "releaseDate": "2026-09-10",
   "downloadUrl": "https://github.com/nenepeq/diot2025-updates/releases/latest/download/DIOT25.msi",
-  "releaseNotes": "• Versión inicial con soporte para auto-actualizaciones.\n• Mejoras visuales en botonera principal.\n• Estabilidad general del sistema.",
+  "releaseNotes": "• Botones Examinar y Plantilla Excel unificados con diseño azul corporativo.\n• Pantalla de Bienvenida con historial cronológico por versión.\n• Sistema de auto-actualizaciones directas desde la nube.",
   "isMandatory": false
 }
