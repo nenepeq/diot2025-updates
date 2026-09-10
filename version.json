@@ -1,0 +1,7 @@
+{
+  "version": "2.5.0.0",
+  "releaseDate": "2026-09-10",
+  "downloadUrl": "https://github.com/nenepeq/diot2025-updates/releases/latest/download/DIOT_2025_Setup.exe",
+  "releaseNotes": "• Versión inicial con soporte para auto-actualizaciones.\n• Mejoras visuales en botonera principal.\n• Estabilidad general del sistema.",
+  "isMandatory": false
+}
