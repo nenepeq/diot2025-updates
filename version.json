@@ -1,7 +1,7 @@
 {
-  "version": "2.5.1.1",
+  "version": "2.5.1.2",
   "releaseDate": "2026-09-10",
   "downloadUrl": "https://github.com/nenepeq/diot2025-updates/releases/latest/download/DIOT25.msi",
-  "releaseNotes": "• Optimización de la Pantalla de Bienvenida a 660px sin recortes de texto.\n• Envoltura responsiva de descripciones adaptable a cualquier resolución.\n• Mejoras de estabilidad general.",
+  "releaseNotes": "• Auditoría de Integridad Pre-SAT: Validación estricta de RFC (CFF Art. 27), redondeo legal a enteros (CFF Art. 20) y semáforo preventivo de errores.\n• Pantalla de Bienvenida ampliada a 660px con visualización completa sin recortes laterales.",
   "isMandatory": false
 }
