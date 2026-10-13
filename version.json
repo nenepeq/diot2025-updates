@@ -1,7 +1,7 @@
 {
   "version": "2.6.1",
-  "releaseDate": "2026-09-10",
+  "releaseDate": "2026-10-12",
   "downloadUrl": "https://github.com/nenepeq/diot2025-updates/releases/latest/download/DIOT25.msi",
-  "releaseNotes": "• Auditoría de Integridad Pre-SAT: Validación estricta de RFC (CFF Art. 27), redondeo legal a enteros (CFF Art. 20) y semáforo preventivo de errores.\n• Pantalla de Bienvenida ampliada a 660px con visualización completa sin recortes laterales.",
-  "isMandatory": false
+  "releaseNotes": "• Corrección oficial de estructura TXT DIOT 2025 (54 posiciones SAT): preservación de ceros a la izquierda en catálogos (04, 85, 01).\n• Cálculo automático de IVA acreditable (16% y 8% Frontera Norte/Sur) en conversión XML a Batch y respaldo en TXT.\n• Separación precisa de Exentos Nacionales (posición 50) e Importación (posición 49).",
+  "isMandatory": true
 }
