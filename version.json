@@ -1,5 +1,5 @@
 {
-  "version": "2.6",
+  "version": "2.6.1",
   "releaseDate": "2026-09-10",
   "downloadUrl": "https://github.com/nenepeq/diot2025-updates/releases/latest/download/DIOT25.msi",
   "releaseNotes": "• Auditoría de Integridad Pre-SAT: Validación estricta de RFC (CFF Art. 27), redondeo legal a enteros (CFF Art. 20) y semáforo preventivo de errores.\n• Pantalla de Bienvenida ampliada a 660px con visualización completa sin recortes laterales.",
