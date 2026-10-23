@@ -1,7 +1,7 @@
 {
-  "version": "2.6.2",
-  "releaseDate": "2026-10-21",
+  "version": "2.6.3",
+  "releaseDate": "2026-10-22",
   "downloadUrl": "https://github.com/nenepeq/diot2025-updates/releases/latest/download/DIOT25.msi",
-  "releaseNotes": "• Adaptabilidad para pantallas 4K.",
+  "releaseNotes": "• Corrección de errores",
   "isMandatory": true
 }
